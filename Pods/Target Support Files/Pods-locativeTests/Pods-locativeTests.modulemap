@@ -1,0 +1,6 @@
+framework module Pods_locativeTests {
+  umbrella header "Pods-locativeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
